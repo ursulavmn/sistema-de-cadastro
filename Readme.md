@@ -4,5 +4,5 @@
 
 Para rodar na sua projeto na sua maquina, por favor digite
 ´´´
-npm
+npm intall
 ´´´
